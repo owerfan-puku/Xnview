@@ -224,4 +224,4 @@ XnView is available as a full free version with all features and updates include
 Don't miss out on the opportunity to enhance your image management experience. [Download XnView for free today!](https://www.softyne.com/xnview)
 
 ---
-**Last updated:** 2026-09-19 03:17:39 UTC
+**Last updated:** 2026-09-19 08:33:03 UTC
